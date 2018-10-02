@@ -1,2 +1,3 @@
 # OSGIOpendoc
-Learn
+学习OSGI框架
+参考BlueDavy发表的文章OpenDoc及源码
