@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: UserValidatorWebBundle
+Bundle-SymbolicName: UserValidatorWebBundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.kid728.osgi.web.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.kid728.osgi.service.user,
+ javax.servlet;version="2.3.0",
+ javax.servlet.http;version="2.3.0",
+ org.eclipse.osgi.util;version="1.1.0",
+ org.osgi.framework;version="1.3.0",
+ org.osgi.service.http;version="1.2.1",
+ org.osgi.service.log;version="1.3.0",
+ org.osgi.util.tracker;version="1.5.1"
+Require-Bundle: org.eclipse.equinox.http;bundle-version="1.0.0",
+ org.eclipse.equinox.servlet.api;bundle-version="1.0.0"
