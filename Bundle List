@@ -1,0 +1,15 @@
+成功启动运行所需要的Bundle如下：
+id	State       Bundle
+0	ACTIVE      org.eclipse.osgi_3.10.102.v20160118-1700
+2	ACTIVE      org.eclipse.osgi.services_3.5.0.v20150519-2006
+8	ACTIVE      DBValidatorBundle_1.0.0.qualifier
+9	ACTIVE      ConfigFileValidatorBundle_1.0.0.qualifier
+10	ACTIVE      UserValidatorBundle_1.0.0.qualifier
+12	ACTIVE      LDAPValidatorBundle_1.0.0.qualifier
+86	ACTIVE      org.eclipse.equinox.http_1.0.0.v20060601a
+87	ACTIVE      org.eclipse.equinox.servlet.api_1.0.0.v20060601
+88	ACTIVE      UserValidatorWebBundle_1.0.0.qualifier
+91	ACTIVE      org.eclipse.equinox.console_1.1.100.v20141023-1406
+92	ACTIVE      org.apache.felix.gogo.shell_0.10.0.v201212101605
+93	ACTIVE      org.apache.felix.gogo.command_0.10.0.v201209301215
+94	ACTIVE      org.apache.felix.gogo.runtime_0.10.0.v201209301036
